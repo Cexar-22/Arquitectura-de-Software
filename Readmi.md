@@ -7,7 +7,7 @@ Define cómo se comunican las partes y cómo evolucionará el sistema, permitien
 
 ---
 
-## 🗂️ 1. Arquitectura de Repositorio (Dónde guardas el código)
+## 1. Arquitectura de Repositorio (Dónde guardas el código)
 
 ### Monorepo
 
